@@ -49,10 +49,10 @@ regularly to indicate new official, stable release versions of LaVidaCoin.
 
 Find LaVidaCoin
 ---------------
-* Website: www.lavidacoin.my
-* Wallet: wallet.lavidacoin.my
-* Pool : pool.lavidacoin.my
-* Explorer: explorer.lavidacoin.my
+* Website: http://www.lavidacoin.my
+* Wallet: https://wallet.lavidacoin.my
+* Pool : http://pool.lavidacoin.my
+* Explorer: https://explorer.lavidacoin.my
 
 Testing
 -------
@@ -73,7 +73,7 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
+    qmake BITCOIN_QT_TEST=1 -o Makefile.test lavidacoin-qt.pro
     make -f Makefile.test
     ./lavidacoin-qt_test
 
