@@ -3,8 +3,8 @@ LaVidaCoin integration/staging tree
 
 http://www.lavidacoin.my
 
-Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2018-2023 LaVidaCoin Developers
+* Copyright (c) 2011-2013 Litecoin Developers
+* Copyright (c) 2018-2023 LaVidaCoin Developers
 
 What is LaVidaCoin?
 ----------------
@@ -49,10 +49,10 @@ regularly to indicate new official, stable release versions of LaVidaCoin.
 
 Find LaVidaCoin
 ---------------
-Website: www.lavidacoin.my
-Wallet: wallet.lavidacoin.my
-Pool : pool.lavidacoin.my
-Explorer: explorer.lavidacoin.my
+* Website: www.lavidacoin.my
+* Wallet: wallet.lavidacoin.my
+* Pool : pool.lavidacoin.my
+* Explorer: explorer.lavidacoin.my
 
 Testing
 -------
