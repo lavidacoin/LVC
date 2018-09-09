@@ -52,6 +52,7 @@ Find LaVidaCoin
 * Website: http://www.lavidacoin.my
 * Wallet: https://wallet.lavidacoin.my
 * Pool : http://pool.lavidacoin.my
+* Pool 2 : http://lavidapool.sytes.net:5000
 * Explorer: https://explorer.lavidacoin.my
 
 Testing
